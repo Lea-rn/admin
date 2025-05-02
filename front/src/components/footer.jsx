@@ -31,7 +31,7 @@ Welcome to our Italian recipes website where we share our best recipes and cooki
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; Achref Mechergui 2024</p>
+        <p>&copy; Maha @ Nour 2025</p>
       </div>
     </footer>
   );
